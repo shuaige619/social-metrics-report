@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "social-metrics-report",
+  "source_version": "3e7493ba113ffe9590503e22787fea9d0b8ca30092dc9b35d68fc098946cbe1d",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "dff1de957caeca01f8fd1bb78d9f5130edc4b073f7eb5faa9bef0226739876a4",
+    "SKILL.md": "28af66072b0120fcdb50758bb63203e966f57792f68fbbfef34e9ca5094858c6",
+    "scripts/compute_metrics.py": "fa42854c366a9330d3f022685ba4d5d2c96f078c00b64b6a66d6d19af0cab7af"
+  }
+}
